@@ -49,7 +49,8 @@ Welcome to my GitHub profile! I'm currently a student of Applied Computer Scienc
 
 ## 🔗 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/chris-ilunga-65644b234/))
+- <a href="https://www.linkedin.com/in/chris-ilunga-65644b234/" target="_blank">LinkedIn</a>
+
 
 <!--
 ## 📊 GitHub Stats
@@ -58,4 +59,7 @@ Welcome to my GitHub profile! I'm currently a student of Applied Computer Scienc
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chris09877&layout=compact&theme=radical)
 
 -->
+
+
+
 
