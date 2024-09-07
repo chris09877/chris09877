@@ -16,37 +16,28 @@ Welcome to my GitHub profile! I'm currently a student of Applied Computer Scienc
 ## 🛠️ Skills
 
 ### Programming Languages:
-- Java ![image](https://github.com/user-attachments/assets/8ad87e9e-571f-4f91-89e9-b9f7f55d8e5e)
 
-- JavaScript ![image](https://github.com/user-attachments/assets/f9e7898a-d6c6-4d0d-80a8-9c49f2ab7a35)
+ ![image](https://github.com/user-attachments/assets/8ad87e9e-571f-4f91-89e9-b9f7f55d8e5e)          ![image](https://github.com/user-attachments/assets/f9e7898a-d6c6-4d0d-80a8-9c49f2ab7a35)
 
-- PHP ![image](https://github.com/user-attachments/assets/2fdbc849-7b85-4727-aed7-5ba0b61f97e8)
+![image](https://github.com/user-attachments/assets/2fdbc849-7b85-4727-aed7-5ba0b61f97e8)           ![image](https://github.com/user-attachments/assets/6b06158c-9239-4982-9031-483adeac679a)
 
-- HTML & CSS ![image](https://github.com/user-attachments/assets/6b06158c-9239-4982-9031-483adeac679a)
-
-- Python ![image](https://github.com/user-attachments/assets/0eda91f1-73f2-4679-9469-43038f212919)
+![image](https://github.com/user-attachments/assets/0eda91f1-73f2-4679-9469-43038f212919)
 
 
 ### Frameworks & Libraries:
-- Spring ![image](https://github.com/user-attachments/assets/bd65e50b-de1c-43a8-8cfc-34f19ecdcf84)
 
-- React ![image](https://github.com/user-attachments/assets/60d30eaf-f6f9-4f57-bc70-8ca541273876)
+![image](https://github.com/user-attachments/assets/bd65e50b-de1c-43a8-8cfc-34f19ecdcf84)                ![image](https://github.com/user-attachments/assets/60d30eaf-f6f9-4f57-bc70-8ca541273876)
 
-- Laravel ![image](https://github.com/user-attachments/assets/5bbb8d36-19ce-419d-b0d9-be30d24a5f7e)
+![image](https://github.com/user-attachments/assets/5bbb8d36-19ce-419d-b0d9-be30d24a5f7e)                ![image](https://github.com/user-attachments/assets/52c92ff2-6a44-4938-855a-c25d71ed17a8)
 
-- jQuery ![image](https://github.com/user-attachments/assets/52c92ff2-6a44-4938-855a-c25d71ed17a8)
-
-- Node.js ![image](https://github.com/user-attachments/assets/04b674a3-6982-454c-904f-012074d23ed6)
-
-- Express.js ![image](https://github.com/user-attachments/assets/d90f16a9-10ee-43de-8fb9-d0697aefa728)
+![image](https://github.com/user-attachments/assets/04b674a3-6982-454c-904f-012074d23ed6)                ![image](https://github.com/user-attachments/assets/d90f16a9-10ee-43de-8fb9-d0697aefa728)
 
 
 ### Databases:
-- MySQL ![image](https://github.com/user-attachments/assets/fe7588bb-3460-4b1c-9b8f-393404b1ce5e)
 
-- MongoDB ![image](https://github.com/user-attachments/assets/e24f5378-f281-4150-80c7-fc10b62381d5)
+![image](https://github.com/user-attachments/assets/fe7588bb-3460-4b1c-9b8f-393404b1ce5e)                 ![image](https://github.com/user-attachments/assets/e24f5378-f281-4150-80c7-fc10b62381d5)
 
-- PostgreSQL ![image](https://github.com/user-attachments/assets/341dac84-f24f-4ee4-b5b1-642beec25b2a)
+![image](https://github.com/user-attachments/assets/341dac84-f24f-4ee4-b5b1-642beec25b2a)
 
 
 ## 📫 How to Reach Me
@@ -61,8 +52,8 @@ Welcome to my GitHub profile! I'm currently a student of Applied Computer Scienc
 
 ## 📊 GitHub Stats
 
-![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chris09877&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chris09877&layout=compact&theme=radical)
 
 ---
 
